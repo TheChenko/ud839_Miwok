@@ -54,7 +54,7 @@
             android:text="@string/category_colors" />
     </FrameLayout>
 
-    <!-- Phrases category -->
+    <!-- Phrases  category -->
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
